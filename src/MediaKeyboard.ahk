@@ -23,6 +23,6 @@ r::Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-
 v::Run "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://gall.dcinside.com/" " --new-window "
 f::Run "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://instagram.com/" " --new-window "
 t::Run "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://twitch.tv/" " --new-window "
-g::Run "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://google.com/" " --new-window "
+g::Run "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://github.com/" " --new-window "
 b::Run "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://facebook.com/" " --new-window "
 #if
